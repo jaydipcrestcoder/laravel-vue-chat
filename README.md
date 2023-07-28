@@ -9,3 +9,5 @@
 - npm install 
 - npm run dev
 - php artisan serve
+
+Here are the screenshots located in the folder called public/screenshots. 
