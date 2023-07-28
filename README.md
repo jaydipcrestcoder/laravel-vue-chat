@@ -1,1 +1,1 @@
-# laravel-vue-chat
+## Chat Application
